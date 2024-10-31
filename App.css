@@ -1,0 +1,15 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+input {
+  margin: 5px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
